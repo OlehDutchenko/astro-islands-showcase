@@ -22,8 +22,8 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Note
 
-- Coding along? Stay on the `clean-slate` branch.
-- To view the completed state(s) of the app, checkout to branch `main`
+-   Coding along? Stay on the `clean-slate` branch.
+-   To view the completed state(s) of the app, checkout to branch `main`
 
 ```bash
   git checkout main # checkout
